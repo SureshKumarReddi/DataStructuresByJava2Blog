@@ -1,0 +1,19 @@
+Array:
+=====
+=> Array is a linear data structure which stores the fixed number of similar data type elements
+=> Array can store primitive data type as well as Objects but it should be of same kind.
+=> Array is one of the most used data structure in Java.
+
+ 
+Advantages of Array:
+====================
+=> you can randomly access any array elements using indices.
+=> It can represent the multiple elements of same type with single name;
+=> You can implement various data structures such as LinkedList,Stack,Queue using Array data structure.
+
+
+DisAdvantages of Array;
+======================
+=> you need to know number of elements going to store in array in advance
+=> you can't modify the array once the size is defined.
+=> Insertion and Deletion are quite Costly Operation in array as we need to shift elements.
